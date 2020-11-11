@@ -1,4 +1,4 @@
-#Signpost
+# Signpost
 This project was created as a part of CS61B: Data Structures at UC Berkeley using Java.
 
 ![Alt text](https://inst.eecs.berkeley.edu/~cs61b/sp20/materials/proj/proj0/img/signpost-connectable.png "Optional title") 
