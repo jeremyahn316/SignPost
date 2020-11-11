@@ -5,16 +5,11 @@ This project was created as a part of CS61B: Data Structures at UC Berkeley usin
 CONTENTS:
 ---------
 
-README                 This file.  You need not turn this in.
+README                 This file.  
 
 Makefile               For those of you using the standard Unix tool chain
                        rather than Eclipse, this file provides for some
-                       simple compilation/testing control.  See the
-                       comments in it for the targets provided.  Those of
-                       you using Eclipse will need it on the instructional
-                       machines (the commands 'make' and 'make check' must
-                       work correctly on your submission, regardless of
-                       which editor or IDE you used).
+                       simple compilation/testing control.  
 
 signpost/
 
